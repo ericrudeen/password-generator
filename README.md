@@ -23,4 +23,4 @@ THEN the password is either displayed in an alert or written to the page
 
 Here is a link to the completed application: https://ericrudeen.github.io/password-generator/
 
-https://github.com/ericrudeen/password-generator/blob/77af14ac90a7144fd414c3bc138fed96ea9fa3c5/Screen%20Shot%202021-03-27%20at%202.17.02%20PM.png
+https://raw.githubusercontent.com/ericrudeen/password-generator/77af14ac90a7144fd414c3bc138fed96ea9fa3c5/Screen%20Shot%202021-03-27%20at%202.17.02%20PM.png
